@@ -1,0 +1,44 @@
+_repo: A-Journey-to-the-Western-Islands-of-Scotland_2064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: "A Journey to the Western Islands of Scotland (1775) is a travel narrative\
+  \ by Samuel Johnson about an eighty-three-day journey through Scotland, in particular\
+  \ the islands of the Hebrides, in the late summer and autumn of 1773. The sixty-three-year-old\
+  \ Johnson was accompanied by his thirty-two-year-old friend of many years James\
+  \ Boswell, who was also keeping a record of the trip, published in 1785 as A Journal\
+  \ of a Tour to the Hebrides. The two narratives are often published as a single\
+  \ volume, which is beneficial for comparing two perspectives of the same events,\
+  \ although they are very different in approach---Johnson focused on Scotland, and\
+  \ Boswell focused on Johnson. (Boswell went on to write a famous biography of Johnson.)\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2064'
+  wikidata: Q1217063
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Johnson, Samuel, 1709-1784 -- Travel -- Scotland -- Hebrides'
+- !lcsh 'Scotland -- Description and travel -- Early works to 1800'
+- !lcsh 'Boswell, James, 1740-1795 -- Travel -- Scotland -- Hebrides'
+- !lcsh 'Hebrides (Scotland) -- Description and travel -- Early works to 1800'
+- !lcc 'DA'
+- GITenberg
+title: A Journey to the Western Islands of Scotland
+url: http://www.gutenberg.org/ebooks/2064
+wikipedia:
+- https://fr.wikipedia.org/wiki/A_Journey_to_the_Western_Islands_of_Scotland
+- https://en.wikipedia.org/wiki/A_Journey_to_the_Western_Islands_of_Scotland
+- https://it.wikipedia.org/wiki/Viaggio_alle_Isole_Occidentali_della_Scozia
+- https://la.wikipedia.org/wiki/A_Journey_to_the_Western_Islands_of_Scotland
